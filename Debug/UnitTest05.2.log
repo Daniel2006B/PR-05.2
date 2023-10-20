@@ -1,0 +1,3 @@
+﻿  UnitTest05.2.cpp
+C:\Users\danyl\source\repos\UnitTest05.2\UnitTest05.2.cpp(15,25): warning C4244: 'argument': conversion from 'double' to 'const int', possible loss of data
+  UnitTest05.2.vcxproj -> C:\Users\danyl\source\repos\PR-05.2-2\Debug\UnitTest05.2.dll
